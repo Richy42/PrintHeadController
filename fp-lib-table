@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name adxl345)(type KiCad)(uri ${KIPRJMOD}/adxl345.pretty)(options "")(descr ""))
+  (lib (name oshw-logo-kicad-copper-10mm)(type Legacy)(uri ${KIPRJMOD}/oshw-logo-kicad-copper-10mm.mod)(options "")(descr ""))
+  (lib (name OSHW-logo)(type Legacy)(uri ${KIPRJMOD}/OSHW-logo.mod)(options "")(descr ""))
+)
